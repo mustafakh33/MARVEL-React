@@ -1,0 +1,6 @@
+using 
+* vite to build my project
+* sass
+* swiper
+* frame motion
+* context
